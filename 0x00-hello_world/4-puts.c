@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
  * main - A program that print aa line with put function
- * return 0 success
+ * Return: 0 (Success)
  */
-int main(void) /* is the entry point that everything is execute */
+int main(void) 
 {
 puts("\"Programming is like building a multilingual puzzle");
 return (0);
