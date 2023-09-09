@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
-  *main - A program that print line using printf
+  *main - A program that print line using puts
   *Return:0(Success)
   */
 int main(void)
 {
-printf("\"Programming is like building a multilingual puzzel\n");
+puts("\"Programming is like building a multilingual puzzel\n");
 return (0);
 }
