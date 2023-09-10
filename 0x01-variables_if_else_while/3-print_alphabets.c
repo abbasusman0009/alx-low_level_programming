@@ -13,12 +13,15 @@ int main(void)
 
 	y = 'A';
 
-	while (x <= 'z' && y <= 'Z')
+	while (x <= 'z')
 	{
 		putchar(x);
+		x++
+	}
+	while (y <= 'Z')
+	{
 		putchar(y);
-		x++;
-		y++;
+		y++
 	}
 	return (0);
 }
