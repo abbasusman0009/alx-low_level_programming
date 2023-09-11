@@ -7,8 +7,8 @@ int main(void)
 {
 	int x;
 
-	x = 0;
-	while (x < 10)
+	x = 'a';
+	while (x < 'k')
 	{
 		putchar(x);
 		putchar(',');
