@@ -10,10 +10,9 @@ int main(void)
 	x = '0';
 	while (x <= '9')
 	{
-		if (x == '9')
+		if (x == '9' && !',')
 		{
 			putchar(x);
-			putchar(!',');
 			putchar(' ');
 			x++;
 		}
