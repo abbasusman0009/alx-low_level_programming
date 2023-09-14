@@ -1,4 +1,4 @@
-#inlude "main.h"
+#include "main.h"
 /**
  *_isalpha - check for alphabetic characters
  * @x: the charactr to be chacked
