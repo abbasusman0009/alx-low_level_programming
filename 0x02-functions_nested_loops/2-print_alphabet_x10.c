@@ -1,8 +1,7 @@
 #include "main.h"
 /**
- * main - A program thatta print lowercase 10x times
- * print_alphabet_x10 -  it a function
- * Return:
+ * print_alphabet_x10 -  it a function for 
+ * Return: 0
  */
 void print_alphabet_x10(void)/* it is a fuction */
 {
